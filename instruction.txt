@@ -1,0 +1,6 @@
+
+
+1. Il faut modifier le fichier config.js pour changer l'url de base de votre server web
+2. Pour vous login:
+    email: emailpro.joss@gmail.com
+    password: M0td3p@$$3
